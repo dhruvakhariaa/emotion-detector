@@ -1,0 +1,5 @@
+//Terminal command
+python3 -c "import EmotionDetection; print(EmotionDetection)"
+
+//Output
+<module 'EmotionDetection' from '/home/project/EmotionDetection/__init__.py'>

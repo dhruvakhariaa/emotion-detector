@@ -1,0 +1,6 @@
+//Terminal command
+pylint EmotionDetection/server.py
+
+//Output
+-------------------------------------------------------------------
+Your code has been rated at 10.00/10
